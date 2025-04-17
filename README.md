@@ -1,4 +1,4 @@
-# Regression_Project
+# Prediction of Agri-Food Sector CO2 Emissions
 
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
